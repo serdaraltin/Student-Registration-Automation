@@ -580,4 +580,3 @@ void Grupla_B(Ogrenci *root, Ogrenci **B){
 	return;
 }
 
-// kisitli zaman ve odevin cok karmasik olmasindan dolayi gozumden kacmis bolumler olabilir
